@@ -3,6 +3,7 @@ SemanticImage
 
 该工具用于向图片增加语义信息（通常是TURTLE格式）。  
 A tool to add semantic information to images（usually TURTLE format）.  
+更多语义图片已经托管在花瓣上（More semantic images is here）：http://huaban.com/boards/3619238/  
 
 **PNG**  
 向数据末尾增加两个iTxt数据块：语义信息的类型（key="SemanticContentType"，例如值为"turtle"）和具体的语义信息（"SemanticInfo"）。  
